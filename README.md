@@ -2,11 +2,11 @@
 
 Motorcycle handlebar BLE controller.
 
-Current version: **1.0.8** (build **9**).
+The current build number is in [`ota/version.txt`](ota/version.txt).
 
 ## Modes
 
-The controller has three modes. To change mode, hold the **Mode** button for 1 second and release it.
+The controller has three modes. To change mode, hold the **Mode** button for 1 second and release it. The selected mode is remembered after power-off.
 
 ### TerraPirata
 
